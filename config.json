@@ -1,0 +1,32 @@
+{
+    "name": "Nara Teracin",
+    "job": "Desenvolvedora front",
+    "github": "narateracin",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            },
+            {
+                "title": "Titulo 2",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            },
+            {
+                "title": "Titulo 3",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            }
+        ],
+
+        "frontend": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            }
+        ]
+    }
+}
